@@ -26,7 +26,7 @@ To run the script, use the following command:
 ./backup.sh /home/user/documents /home/user/backup
 ```
 
-### Code Explanation
+## Code Explanation
 
 This line specifies that the script should be run in the Bash shell.
 ```bash
