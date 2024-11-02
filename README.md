@@ -21,4 +21,4 @@ To run the script, use the following command:
 - `target_directory_name`: The directory containing files to be backed up.
 - `destination_directory_name`: The directory where the compressed backup file will be stored.
 
-  
+### Example
